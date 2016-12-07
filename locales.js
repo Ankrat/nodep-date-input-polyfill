@@ -364,7 +364,35 @@ const locales = {
     ],
     today: `Bugün`,
     format: `D/M/Y`
-  }
+  },
+  /* French */
+  'fr-FR': {
+    days: [
+      `Dim`,
+      `Lun`,
+      `Mar`,
+      `Mer`,
+      `Jeu`,
+      `Ven`,
+      `Sam`
+    ],
+    months: [
+      `Janvier`,
+      `Fevrier`,
+      `Mars`,
+      `Avril`,
+      `Mai`,
+      `Juin`,
+      `Juillet`,
+      `Aout`,
+      `Septembre`,
+      `Octobre`,
+      `Novembre`,
+      `Decembre`
+    ],
+    today: `Aujourd'hui`,
+    format: `D/M/Y`
+  },
 };
 
 export default locales;
